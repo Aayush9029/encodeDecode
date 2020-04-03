@@ -5,11 +5,11 @@ Summary: A morse code encryption / decryption library
 Home-page: https://github.com/Aayush9029/morse3
 Author: Aayush Pokharel
 Author-email: aayushpokharel36@gmail.com
-License: UNKNOWN
+License: MIT
 Description: A library that can convert text, numbers and symbols to morse code and vice versa
         The Code is Written to be simple to understant and implement
         
-Platform: UNKNOWN
+Platform: :: OS Independent
 Classifier: Programming Language :: Python :: 3
 Classifier: License :: OSI Approved :: MIT License
 Classifier: Operating System :: OS Independent
