@@ -1,2 +1,2 @@
-# encodeDecode
-The repo will contain my pip package, which will be used to encode and decode strings into various types
+A library that can convert text, numbers and symbols to morse code and vice versa
+The Code is Written to be simple to understant and implement
