@@ -1,19 +1,19 @@
 
 Installation
 
-> pip install morse3
+`pip install morse3`
 
 Usage
 
-> from morse3 import Morse as m
+> \>\>\> from morse3 import Morse as m
 
-> m("a a23").stringToMorse()
+> \>\>\> m("a a23").stringToMorse()
 >
-> >>> .-  .- ..--- ...--
+> \>\>\> .-  .- ..--- ...--
 
-> m("-.-. .- -. -.. -.--")
+> \>\>\> m("-.-. .- -. -.. -.--")
 >
-> >>> candy
+> >\>\> candy
 
 
 A library that can convert text, numbers and symbols to morse code and vice versa
