@@ -5,15 +5,13 @@ Installation
 
 Usage
 
-> \>\>\> from morse3 import Morse as m
+\>\>\> from morse3 import Morse as m
 
-> \>\>\> m("a a23").stringToMorse()
+\>\>\> m("a a23").stringToMorse()
+\>\>\> .- &nbsp;  .- ..--- ...--
 
-> \>\>\> .- &nbsp;  .- ..--- ...--
-
-> \>\>\> m("-.-. .- -. -.. -.--")
-
-> \>\>\> candy
+\>\>\> m("-.-. .- -. -.. -.--")
+\>\>\> candy
 
 
 A library that can convert text, numbers and symbols to morse code and vice versa
