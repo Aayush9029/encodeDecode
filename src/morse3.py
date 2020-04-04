@@ -1,5 +1,10 @@
-#!python
+'''
+made by:  Aayush 9029
+created at: April 3, 2020
 
+A module that converts string to morse code and vice versa
+
+'''
 class Morse:
     def __init__(self, words):
         '''
@@ -98,18 +103,5 @@ class Morse:
                     if letter == code:
                         output += string
             output += " "
-        return output
-
-
-a = Morse(input()).stringToMorse()
-
-print(a)
-
-print(Morse(a).morseToString())
-
-# a = Morse("-.-. .- -. -.. -.--  -- .- -.").morseToString()
-
-# print(a)
-
-
+        return output[:-1]
 

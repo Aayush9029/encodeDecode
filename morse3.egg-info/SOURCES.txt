@@ -1,7 +1,0 @@
-README.md
-morse3
-setup.py
-morse3.egg-info/PKG-INFO
-morse3.egg-info/SOURCES.txt
-morse3.egg-info/dependency_links.txt
-morse3.egg-info/top_level.txt
