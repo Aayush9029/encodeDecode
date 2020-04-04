@@ -8,12 +8,12 @@ Usage
 > \>\>\> from morse3 import Morse as m
 
 > \>\>\> m("a a23").stringToMorse()
->
+
 > \>\>\> .- &nbsp;  .- ..--- ...--
 
 > \>\>\> m("-.-. .- -. -.. -.--")
->
-> >\>\> candy
+
+> \>\>\> candy
 
 
 A library that can convert text, numbers and symbols to morse code and vice versa
