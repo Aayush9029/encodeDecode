@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setup(
     name='morse3',  
-    version='0.47',
+    version='2.9',
     author="Aayush Pokharel",
     author_email="aayushpokharel36@gmail.com",
     description="A morse code encryption / decryption library",
